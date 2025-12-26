@@ -36,7 +36,7 @@ b=sorted(a.items(),key=lambda x:x[1])
 print(f"Keys and Values sorted in alphabetical order by the value\n{b}")
 ~~~
 ## Sample Output
-<img width="818" height="114" alt="image" src="https://github.com/user-attachments/assets/38fe3cf4-d915-4e45-b8b6-7ee303b6e4e6" />
+<img width="814" height="113" alt="image" src="https://github.com/user-attachments/assets/755fb202-9263-4c8a-a3fd-7fc902a38b34" />
 
 ## Result
 Thus,the program has been executed successfully.
