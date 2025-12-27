@@ -1,4 +1,4 @@
-<img width="809" height="169" alt="image" src="https://github.com/user-attachments/assets/95c5a468-b6b8-4820-b12d-1f29f182e68a" />## Dictionary Operations in Python: Merging Two Dictionaries
+
 
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
